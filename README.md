@@ -34,3 +34,36 @@ It was a little complicated to start the Project but with the help of the docume
 I actually liked Laravel a lot and I really liked the course. Laravel can have several folders and we have to be moved from one file to another but I really liked Laravel. With the help of the documentation, my notes taken in class and after doing the labs in class it was easier since I already had more knowledge and understanding of how to complete the task.
 
 ## User Flow:
+
+### Home Page
+![Home Page](/photos/photo1.png "Home Page")
+
+### Login Page
+![Login Page](/photos/photo2.png "Login Page")
+
+### Dashboard
+![Dashboard](/photos/photo3.png "Dashboard")
+
+### Leagues
+![Leagues](/photos/photo5.png "Leagues")
+
+### Create a League
+![Create a League](/photos/photo6.png "Create a League")
+
+### New League Added
+![New League Added](/photos/photo7.png "New League Added")
+
+### Update a League
+![Update a League](/photos/photo9.png "Update a League")
+
+### League Updated
+![League Updated](/photos/photo8.png "League Updated")
+
+### Delete a League
+![Delete a League](/photos/photo11.png "Delete a League")
+
+### Players
+![Players](/photos/photo12.png "Players")
+
+### Teams
+![Teams](/photos/photo13.png "Teams")
